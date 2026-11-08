@@ -11,7 +11,7 @@ nav {
 	@media #{$mid-point} {
 		padding-right: 1rem;
 		padding-left: 1rem;
-		width: 40%;
+		width: fit-content;
 	}
 	@media only screen and (max-width: 620px) {
 		width: 99%;
